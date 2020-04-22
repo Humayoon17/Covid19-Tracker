@@ -1,16 +1,16 @@
-# covid19tracker
+# Covid19-Tracker
+Get the latest events of Coronavirus in you mobiles
 
-A new Flutter application.
+Now you can be informed from time to time of Corona in #Afghanistan and #World with the Covid-19 Tracker application.
 
-## Getting Started
+After a few days of hard work, I finally made my first application, and you dear ones can learn about the number of corona events in Afghanistan and the world, as well as ways to prevent it.
 
-This project is a starting point for a Flutter application.
+And all the updates are from the most comprehensive source in the world. This means that the main source of this application is #John-Hapkens-University.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For source code please email me
+# Humayoon_muhammadi@yahoo.com
+# Screenshots
+![](screenshots/Screenshot_20200419-001030.jpg)
+![](screenshots/Screenshot_20200419-001049.jpg)
+![](screenshots/Screenshot_20200419-001054.jpg)
+![](screenshots/Screenshot_20200419-001059.jpg)
