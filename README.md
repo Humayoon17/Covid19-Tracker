@@ -7,8 +7,6 @@ After a few days of hard work, I finally made my first application, and you dear
 
 And all the updates are from the most comprehensive source in the world. This means that the main source of this application is #John-Hapkens-University.
 
-For source code please email me
-# Humayoon_muhammadi@yahoo.com
 # Screenshots
 ![](screenshots/Screenshot_20200419-001030.jpg)
 ![](screenshots/Screenshot_20200419-001049.jpg)
